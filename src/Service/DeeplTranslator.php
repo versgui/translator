@@ -21,7 +21,7 @@ use Translation\Translator\TranslatorService;
 /**
  * @author Guillaume Verstraete <versgui@gmail.com>
  */
-class DeeplTranslatorTranslator extends HttpTranslator implements TranslatorService
+class DeeplTranslator extends HttpTranslator implements TranslatorService
 {
     /**
      * @var string
